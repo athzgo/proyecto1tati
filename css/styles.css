@@ -2,12 +2,48 @@
 
 /* Fonts */
 /* Importar aquí la font */
-
-
-
+*{font-family: 'Lato', sans-serif;}
+*{;}
+*{justify-content: center; 
+        align-items: center; 
+        text-align: center; 
+        width: 100%;}
+ *{line-height: 1.2;}       
+ header {height: 90px; border-bottom: solid #af599e; font-size: 18px;}       
+ #fotota {border-radius: 100%; 
+         margin-top: 30px; 
+         height: 400px; 
+         width: 400px;}  
+ .lista {display: flex;} 
+ .logo {width: 50px; height: 50px;} 
 /* Aquí les dejamos como ayuda este "reset" en el cual ajustamos algunas propiedades
 *  cuyos valores asigna por defecto el navegador.
 */
+h1 {font-size: 36px; }  
+#parrafo1 {margin-bottom: 30px;
+padding: 20px;}
+
+ #pulsar {background-color:#af599e;
+        color:#fbfbfb;
+        margin-top: 30px;
+        border-radius: 50px;
+        font-size: 20px; 
+        margin-top: 20px; 
+        margin-bottom: 200px;
+        padding: 10px; }
+footer {height: 90px; 
+      background-color:#af599e;  
+      color:#fbfbfb;
+       padding-top: 35px;}
+ h2 {font-size: 28px;
+     background-color: #b194ab;
+    border-radius: 50px;}
+
+ section{background-color:#b194ab;
+border-radius: 15px;
+margin-bottom: 30%;
+margin-top: 30%;padding: 20px;} 
+#contactos {margin-bottom: 50px; }
 
 /* Reset */
 * {
