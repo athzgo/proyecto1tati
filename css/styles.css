@@ -6,7 +6,7 @@
         width: 100%; 
         line-height: 1.2;} 
  #fotota {border-radius: 100%; 
-         margin-top: 30px; 
+         margin-top: 200px; 
          height: 400px; 
          width: 400px;}  
  #superior { background: #fff;
@@ -14,8 +14,7 @@
            display: flex;
            font-size: 18px;  
            height: 90px;
-           border-bottom: solid #af599e;
-           margin-top: 30px;} 
+           border-bottom: solid #af599e;} 
 .contactos { display: flex;           
          } 
 .logo {margin-right: 20px;
