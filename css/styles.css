@@ -5,6 +5,11 @@
         text-align: center; 
         width: 100%; 
         line-height: 1.2;} 
+ #btat, #btinicio, #btcontactos {background-color:#fbf9fb;
+    color:#050000;
+    border-radius: 50px;
+    font-size: 20px; 
+    padding: 10px; }
  #fotota {border-radius: 100%; 
          margin-top: 200px; 
          height: 400px; 
@@ -22,12 +27,12 @@
        height: 50px;
      margin-bottom: 50px; }
 
-h1 {font-size: 36px; } 
+h1 {font-size: 48px; } 
 
 #parrafo1 {margin-bottom: 30px;
-           padding: 20px;}
+           padding: 20px; background-color:rgba(12, 124, 158, 0.3); border-radius: 15px;       }
 
- #pulsar {background-color:#af599e;
+ #pulsar {background-color:#1b1396;
          color:#fbfbfb;
          margin-top: 30px;
          border-radius: 50px;
@@ -36,17 +41,17 @@ h1 {font-size: 36px; }
          margin-bottom: 200px;
          padding: 10px; }
 
- h2 {font-size: 28px;
+ h2 {font-size: 32px;
      border-radius: 50px;}
 
- section{background-color:rgba(175, 89, 158, 0.3);
+ section{background-color:rgba(12, 124, 158, 0.3);
          border-radius: 15px;
          margin-bottom: 30%;
          margin-top: 30%; 
          padding: 20px;} 
          
   footer { height: 90px; 
-         background-color: #af599e;
+         background-color: #1b1396 ;
          color: #fbfbfb;
          padding-top: 35px;}          
 
